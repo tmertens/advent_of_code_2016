@@ -1,4 +1,4 @@
-require 'separate_steps'
+require 'day1/separate_steps'
 
 describe SeparateSteps do
   it 'R2, L3 is 5 blocks away' do

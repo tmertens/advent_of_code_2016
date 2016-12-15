@@ -1,4 +1,4 @@
-require 'first_visited_twice'
+require 'day1/first_visited_twice'
 
 describe FirstVisitedTwice do
   it 'returns the distance to the first location visited twice' do

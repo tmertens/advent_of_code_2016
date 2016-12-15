@@ -1,4 +1,4 @@
-require 'distance_calculator'
+require 'day1/distance_calculator'
 
 describe DistanceCalculator do
   it 'R2, L3 is 5 blocks away' do
